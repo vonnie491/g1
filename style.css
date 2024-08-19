@@ -1,0 +1,42 @@
+body{
+    margin: 5% 15% 0 15%;
+    font-family: "Open Sans";
+}
+
+h1{
+    font-size: 56px;
+}
+
+#subtitulo{
+    color:#555555;
+    font-size: 18px;
+}
+
+#data{
+    margin-bottom: 20px;
+    padding-top: 0px;
+    font-size: 12px;
+}
+
+main{
+    margin: 50px 15% 0 15%;
+    text-align: justify;
+    color: #333333;
+}
+
+span,ul{
+    color: #A6130A;
+    font-weight: bold;
+}
+
+li{
+    margin-bottom: 15px;
+}
+
+blockquote{
+    font-weight: bold;
+    font-size: 28px;
+    border-left: 3px solid #A6130A;
+    padding-left: 2%;
+    margin-left: 0;
+}
